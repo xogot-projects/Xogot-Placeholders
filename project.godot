@@ -13,7 +13,7 @@ config_version=5
 config/name="Placeholder Scenes"
 run/main_scene="res://Environments/Day.tscn"
 config/features=PackedStringArray("4.7", "Mobile")
-config/icon="res://icon.svg"
+config/icon="res://project-icon.png"
 
 [audio]
 
